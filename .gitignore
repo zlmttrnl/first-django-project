@@ -1,0 +1,8 @@
+
+venv
+db.sqlite3
+.idea/
+blogSitesi/
+manage.py
+proje_ip/
+templates/
